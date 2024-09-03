@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ls/ls.iml" filepath="$PROJECT_DIR$/ls/ls.iml" />
       <module fileurl="file://$PROJECT_DIR$/pagina/pagina.iml" filepath="$PROJECT_DIR$/pagina/pagina.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/palindrome/palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/true_or_false/true_or_false.iml" filepath="$PROJECT_DIR$/true_or_false/true_or_false.iml" />
     </modules>
   </component>
