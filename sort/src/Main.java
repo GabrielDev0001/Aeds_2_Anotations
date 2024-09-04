@@ -15,14 +15,14 @@ public class Main {
                         controle = tabela[i];
                         tabela[i] = tabela[j];
                         tabela[j] = controle;
-                    }   else if ((tabela[i] % 2 == 1) && (tabela[j] % 2 == 1)) {
+                    }  else if ((tabela[i] % 2 == 1) && (tabela[j] % 2 == 1)) {
                         if(tabela[i] > tabela[j]){
                             controle = tabela[i];
                             tabela[i] = tabela[j];
                             tabela[j] = controle;
                         }
                     } else if ((tabela[i] % 2 == 0) && (tabela[j] % 2 == 0)) {
-                        if(tabela[i] > tabela[j]){
+                        if(tabela[i] < tabela[j]){
                             controle = tabela[i];
                             tabela[i] = tabela[j];
                             tabela[j] = controle;
