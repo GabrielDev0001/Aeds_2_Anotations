@@ -4,14 +4,20 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arquivo/Arquivo.iml" filepath="$PROJECT_DIR$/Arquivo/Arquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Execicio1/Execicio1.iml" filepath="$PROJECT_DIR$/Execicio1/Execicio1.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/lab02/LAB02.iml" filepath="$USER_HOME$/Desktop/lab02/LAB02.iml" />
       <module fileurl="file://$PROJECT_DIR$/alteracao/alteracao.iml" filepath="$PROJECT_DIR$/alteracao/alteracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/arquio/arquio.iml" filepath="$PROJECT_DIR$/arquio/arquio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capture/capture.iml" filepath="$PROJECT_DIR$/capture/capture.iml" />
       <module fileurl="file://$PROJECT_DIR$/cesar/cesar.iml" filepath="$PROJECT_DIR$/cesar/cesar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inserction/inserction.iml" filepath="$PROJECT_DIR$/inserction/inserction.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab01.iml" filepath="$PROJECT_DIR$/lab01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls/ls.iml" filepath="$PROJECT_DIR$/ls/ls.iml" />
       <module fileurl="file://$PROJECT_DIR$/medalhas/medalhas.iml" filepath="$PROJECT_DIR$/medalhas/medalhas.iml" />
       <module fileurl="file://$PROJECT_DIR$/pagina/pagina.iml" filepath="$PROJECT_DIR$/pagina/pagina.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/palindrome/palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisa_sequencial/pesquisa_sequencial.iml" filepath="$PROJECT_DIR$/pesquisa_sequencial/pesquisa_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selection/selection.iml" filepath="$PROJECT_DIR$/selection/selection.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/true_or_false/true_or_false.iml" filepath="$PROJECT_DIR$/true_or_false/true_or_false.iml" />
     </modules>
